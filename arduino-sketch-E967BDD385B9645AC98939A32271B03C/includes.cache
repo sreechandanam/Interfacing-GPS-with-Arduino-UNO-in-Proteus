@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\sreec\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\sreec\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\sreec\\AppData\\Local\\Temp\\arduino-sketch-E967BDD385B9645AC98939A32271B03C\\sketch\\simple_test.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Users\\sreec\\AppData\\Local\\Arduino15\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\sreec\\AppData\\Local\\Temp\\arduino-sketch-E967BDD385B9645AC98939A32271B03C\\sketch\\simple_test.ino.cpp",
+    "Include": "TinyGPS.h",
+    "Includepath": "C:\\Users\\sreec\\OneDrive\\Documents\\Arduino\\libraries\\TinyGPS-13.0.0\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\sreec\\AppData\\Local\\Temp\\arduino-sketch-E967BDD385B9645AC98939A32271B03C\\sketch\\simple_test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\sreec\\AppData\\Local\\Arduino15\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\sreec\\OneDrive\\Documents\\Arduino\\libraries\\TinyGPS-13.0.0\\src\\TinyGPS.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
